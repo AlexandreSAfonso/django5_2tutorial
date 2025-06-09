@@ -7,7 +7,7 @@
 	"features": {
 		"ghcr.io/devcontainers/features/common-utils:2": {},
 		"ghcr.io/stuartleeks/dev-container-features/shell-history:0": {},
-		"ghcr.io/hspaans/devcontainer-features/django-upgrade:1": {},
+		"ghcr.io/hspaans/devcontainer-features/django-upgrade:2": {},
 		"ghcr.io/devcontainers-extra/features/zsh-plugins:0": {}
 	}
 
